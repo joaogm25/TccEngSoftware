@@ -1,0 +1,18 @@
+#titulo {
+  font-size: 2em;
+  color: #BADA55;
+}
+button {
+  background-color: #BADA55;
+  color: white;
+}
+
+#topo {
+  width: 100%;
+}
+#topo h1 {
+  font-size: 2em;
+}
+#topo ul {
+  margin-left: 10px;
+}
